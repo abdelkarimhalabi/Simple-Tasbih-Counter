@@ -1,0 +1,161 @@
+@media all and (min-width: 1430px) and (max-width: 1680px) { 
+    body{
+        background-image: url("img.jpg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: cover
+    }
+
+        
+    .mainDiv{
+        background: rgba(76, 122, 175, 0.7);
+        margin-top: 700px;
+        margin-left: 500px;
+        width: 50%;
+        border: 4px solid black;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    button{
+        padding: 2%;
+    }
+    button:hover{
+        background-color: peru;
+    }
+}
+
+@media all and (min-width: 1000px) and (max-width: 1429px) { 
+    body{
+        background-image: url("img.jpg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: cover
+    }
+
+        
+    .mainDiv{
+        background: rgba(76, 122, 175, 0.7);
+        margin-top: 550px;
+        margin-left: 300px;
+        width: 50%;
+        border: 4px solid black;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    button{
+        padding: 2%;
+    }
+    button:hover{
+        background-color: peru;
+    }
+}
+
+@media all and (min-width: 768px) and (max-width: 999px) { 
+    body{
+        background-image: url("img.jpg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: cover
+    }
+
+        
+    .mainDiv{
+        background: rgba(76, 122, 175, 0.7);
+        margin-top: 550px;
+        margin-left: 230px;
+        width: 50%;
+        border: 4px solid black;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    button{
+        padding: 2%;
+    }
+    button:hover{
+        background-color: peru;
+    }
+
+}
+@media all and (min-width: 380px) and (max-width: 475px) { 
+    body{
+        background-image: url("img.jpg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: cover
+    }
+
+        
+    .mainDiv{
+        background: rgba(76, 122, 175, 0.7);
+        margin-top: 500px;
+        margin-left: 110px;
+        width: 50%;
+        border: 4px solid black;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    button{
+        padding: 2%;
+    }
+    button:hover{
+        background-color: peru;
+    }
+}
+
+@media all and (min-width: 321px) and (max-width: 379px) { 
+    body{
+        background-image: url("img.jpg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: cover
+    }
+
+        
+    .mainDiv{
+        background: rgba(76, 122, 175, 0.7);
+        margin-top: 473px;
+        margin-left: 90px;
+        width: 50%;
+        border: 4px solid black;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    button{
+        padding: 2%;
+    }
+    button:hover{
+        background-color: peru;
+    }
+}
+
+@media all and (min-width: 0px) and (max-width: 320px) { 
+    body{
+        background-image: url("img.jpg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: cover
+    }
+
+        
+    .mainDiv{
+        background: rgba(76, 122, 175, 0.7);
+        margin-top: 395px;
+        margin-left: 90px;
+        width: 50%;
+        border: 4px solid black;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    button{
+        padding: 2%;
+    }
+    button:hover{
+        background-color: peru;
+    }
+}
