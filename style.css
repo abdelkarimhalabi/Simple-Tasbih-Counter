@@ -1,4 +1,4 @@
-@media all and (min-width: 1430px) and (max-width: 1680px) { 
+@media all and (min-width: 1430px) { 
     body{
         background-image: url("img.jpg");
         background-repeat: no-repeat; 
